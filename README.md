@@ -126,6 +126,7 @@ More complete curated list of implementations and scientific resources:
 - [zk-email](https://github.com/zkemail)
 - [Proof of Passport](https://github.com/zk-passport/proof-of-passport)
 - [Semaphore](https://github.com/semaphore-protocol/semaphore)
+- [Web-Proofs](https://zeroknowledge.fm/325-2/)
 
 ## Comparison of the most popular zkp systems
 
@@ -173,6 +174,7 @@ Get started:
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
 - [BabySNARK- The simplest possible SNARK for NP. You know, for kids!](https://github.com/initc3/babySNARK)
 - [The MoonMath Manual to zk-SNARKs (A free learning resource for beginners to experts)](https://leastauthority.com/community-matters/moonmath-manual/)
+- [Ronkathon: Learn Cryptography from First Principles](https://pluto.xyz/blog/ronkathon-learn-cryptography-from-first-principles)
 
 Why and How zk-SNARK Works:
 
@@ -236,6 +238,7 @@ OxPARC learning group:
   - [Roll-up tutorial using Circom and SnarkJS by Ying Tong](https://github.com/therealyingtong/roll_up_circom_tutorial)
   - [A circuit and zk-snark implement using Circom and SnarkJS by Luozhu](https://github.com/LuozhuZhang/zkps-circuit-snark)
 - [SnarkyJS - a TypeScript framework for writing zk-SNARKs in the browser and developing Snapps for Mina Protocol by O(1) labs - WIP](https://github.com/o1-labs/snarkyjs)
+- [Ronkathon: Applied Cryptography from first principles](https://github.com/pluto/ronkathon)
 
 ### Scaling the prover
 
