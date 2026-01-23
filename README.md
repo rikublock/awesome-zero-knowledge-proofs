@@ -110,7 +110,6 @@ More complete curated list of implementations and scientific resources:
 - [Beam: Private and Scalable Coin based on MimbleWimble](https://www.beam.mw)
 - [Namada: Asset Agnostic, Multichain privacy](https://namada.net/) (SNARKs)
   - [Youtube Introduction](https://youtu.be/F2cPd7nwG7A?si=iHw93A3ziLc9neH5)
-  - [Specs Documentation](https://specs.namada.net/masp)
 - [IronFish: Privacy-Preserving Regulatory-Friendly Cryptocurrency Platform](https://ironfish.network/use/get-started/get-started) (Groth16 zk-SNARKs)
   - [Whitepaper](https://ironfish.network/learn/whitepaper)
   - [Community Chat](https://discord.ironfish.network/)
@@ -157,10 +156,6 @@ More complete curated list of implementations and scientific resources:
 ### Proof system implementations
 
 - [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
-
-### Halo
-
-- [Halo: Recursive bullet proof composition](https://www.coindesk.com/you-can-now-prove-a-whole-blockchain-with-one-math-problem-really)
 
 ## SNARKs
 
